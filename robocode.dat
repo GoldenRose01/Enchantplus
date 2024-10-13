@@ -1,0 +1,28 @@
+
+# Project Information for Enchantplus
+
+## Project Overview
+Enchantplus is a Scarpet-based mod for Minecraft 1.21.1 that enhances the enchanting system. It includes both vanilla and custom enchantments, and introduces an advanced enchanting table with specific setup requirements.
+
+## Directory Structure
+- Enchantplus/
+  - config.json: Contains vanilla and custom enchantments.
+  - ec_info.json: Contains information about enchantments, including rarity and table type.
+  - enchantplus.sc: Main runner script for enchantment management.
+  - Table/
+    - advanced_enchanting_table.sc: Logic for the advanced enchanting table.
+  - Enchant/
+    - Experienced.sc: Specific script for the "Experienced" enchantment.
+  - Handler/
+    - command_enchant.sc: Handles the /enchant command.
+    - creative_inventory.sc: Adds enchantments to the creative inventory.
+    - entity_hit.sc: Handles events when an entity is hit by a player.
+
+## Recent Updates
+- Verified and corrected scripts for enchantment management.
+- Added advanced enchanting table logic and updated main runner script.
+- Moved advanced_enchanting_table.sc to Table directory and updated main runner script.
+
+## Future Updates
+- Any future updates will be documented here.
+

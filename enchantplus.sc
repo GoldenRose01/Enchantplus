@@ -24,3 +24,8 @@ __on_command("enchant", (player, args) -> (
     # Call the handler for managing the /enchant command
     run('command_enchant_handler', player, args);
 ));
+
+# Check and handle advanced enchanting table setup
+__on_command("advanced_enchant", (player, args) -> (
+    run('Table/check_advanced_enchanting_table', player);
+));

@@ -1,0 +1,629 @@
+{
+  "enchantments": [
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Experienced"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Triumph"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Leeching Aspect"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Freezing Aspect"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Curse of Perish"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Leeching Aspect"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Quick Hit"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Curse of Spiders"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Mida's Touch"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Vision blessing"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Seeker blessing"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Sun Blessing"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Night Blessing"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "End Blessing"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Hell Blessing"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Healing Aura"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "End adaptability"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Hicker"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Normal",
+      "enchantment": "Siphon"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Normal",
+      "enchantment": "Refill"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Vacuum"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Backslash"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Payback"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Advanced",
+      "enchantment": "Excavator"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Health upgrade"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Heart of the Sky"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Heart of the Sea"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Heart of Nether"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Heart of depth"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Swiftness"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Normal",
+      "enchantment": "Ice speed"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Snowshoeing"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Rabbit Foot"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Advanced",
+      "enchantment": "Soft Falling"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Soil Falling"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Dash"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Lunge"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Superweight"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Dual Sweeping"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Digger"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Smelting"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Nether Forged"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "End Forged"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Dwarf Forged"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Villager Forged"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Hell Flakes"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "End Flakes"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Dwarf Flakes"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Sea Flakes"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Gream Reaper"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Sickened of Hell"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Spirit Cast"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Advanced",
+      "enchantment": "Void Sweep"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Drain Looting"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Advanced",
+      "enchantment": "Curse of Fragility"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Enduring"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "Soulbond"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "DeathBreak"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Sniper"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Normal",
+      "enchantment": "Pop"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Elasticity"
+    },
+    {
+      "rarity": "Legendary",
+      "table_type": "Advanced",
+      "enchantment": "Theft"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Target Curse"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Armored"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Launch"
+    },
+    {
+      "rarity": "Uncommon",
+      "table_type": "Normal",
+      "enchantment": "Sea Breeze"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Curse of the forest"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Smithcrafts"
+    },
+    {
+      "rarity": "Ultra",
+      "table_type": "Advanced",
+      "enchantment": "It's a plane?"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Advanced",
+      "enchantment": "Welding"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Neptune's Will"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Pruning"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "ClearMind"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Replenish"
+    },
+    {
+      "rarity": "Epic",
+      "table_type": "Normal",
+      "enchantment": "Weapon Protection"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "God's Protection"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Combustion Protection"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Inking"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Engine"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Blade of Apocalypse"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Star Fate"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Butcher"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Witch Hunter"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Undead Slayer"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Flogging"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Herbicide"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Exorcist"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Bane Of End"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Wrath of the abyss"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Creeping threat"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Smoother"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Katana"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Blast Protection"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Breach"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Density"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Depth Strider"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Riptide"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Efficiency"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Feather Falling"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Fire Aspect"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Fire Protection"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Fortune"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Frost Walker"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Knockback"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Looting"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Loyalty"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Luck of the Sea"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Lure"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Piercing"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Power"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Projectile Protection"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Protection"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Sweeping Edge"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Punch"
+    },
+    {
+      "rarity": "Rare",
+      "table_type": "Normal",
+      "enchantment": "Quick Charge"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Silk Touch"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Aqua Affinity"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Channeling"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Flame"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Infinity"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Curse of Binding"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Curse of Vanishing"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Swift Sneak"
+    },
+    {
+      "rarity": "Common",
+      "table_type": "Normal",
+      "enchantment": "Mending"
+    },
+    {
+      "rarity": "Unique",
+      "table_type": "Normal",
+      "enchantment": "Thorns"
+    }
+  ]
+}
